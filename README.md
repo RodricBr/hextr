@@ -1,8 +1,8 @@
-<h3 align="center">hexTr --> Hex Translator</h3>
+<h1 align="center">hexTr --> Hex Translator</h3>
 <hr>
 </br>
 
-# Setup + Usage:
+## Setup + Usage:
 
 </br>
 
