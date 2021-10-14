@@ -2,7 +2,7 @@
 <hr>
 </br>
 
-## Setup + Usage:
+# Setup + Usage:
 
 </br>
 
