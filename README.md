@@ -5,6 +5,6 @@
 ## Setup + Use:
 
 </br>
-- `git clone https://github.com/rodricbr/hextr`
-- chmod +x hextr.sh
-- ./hextr.sh <hex> OR ./hextr.sh
+- `git clone https://github.com/rodricbr/hextr` </br>
+- chmod +x hextr.sh </br>
+- ./hextr.sh <hex> OR ./hextr.sh </br>
