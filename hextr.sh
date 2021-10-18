@@ -8,6 +8,6 @@ if [[ -z "$*" ]]; then
   echo -ne "${CYANO}O valor decimal do${FIM} ${opcao_hex} ${CYANO}é:${FIM} "
   echo "obase=10; ibase=16; ${opcao_hex}" | bc
 else
-  echo -n "${CYANO}O valor decimal do${FIM} $* ${CYANO}é:${FIM} "
+  echo -n "$(echo -e $CYANO)O valor decimal do$(echo -e $FIM) $* $(echo -e $CYANO)é:$(echo -e $FIM) "
   echo "ibase=16; $*" | bc
 fi
