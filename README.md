@@ -13,4 +13,4 @@ Comandos: </br>
 > chmod +x hextr.sh </br> </br>
 > ./hextr.sh <hex> OU ./hextr.sh </br> </br>
 
-### Nenhum argumento ==> execução com input
+#### OBS: Nenhum argumento ==> execução com input
