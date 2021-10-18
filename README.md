@@ -1,5 +1,7 @@
 <h1 align="center">hexTr --> Hex Translator</h3>
 
+### Traduz valores hexadecimais em valores decimais
+
 </br>
 
 ## Setup + Modo de usar:
