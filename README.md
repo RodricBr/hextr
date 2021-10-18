@@ -1,5 +1,6 @@
 <h1 align="center">hexTr --> Hex Translator</h3>
-<hr>
+
+</br>
 
 ## Setup + Modo de usar:
 
